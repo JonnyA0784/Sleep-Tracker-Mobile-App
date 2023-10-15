@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830427473800",
+    "project_id": "sweetdreams-9f7e1",
+    "storage_bucket": "sweetdreams-9f7e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830427473800:android:341d0e77d4d6875fd5bc3d",
+        "android_client_info": {
+          "package_name": "com.example.SweetDreams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830427473800-t1f0tk82o33kgcpfja67iahu4k8f23br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-LCYKBRGRLoT39k8XeWkdEMyOkovcCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830427473800-t1f0tk82o33kgcpfja67iahu4k8f23br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
