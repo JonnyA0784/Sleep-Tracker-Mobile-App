@@ -1,22 +1,5 @@
-# SweetDreams
-
-A Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# Acknowledgement
-
-Code adapted from [Liem Vo](https://medium.com/codechai/the-mvp-architecture-pattern-in-flutter-with-simple-demo-65ab3282c54b)
-
-Written by: Joseph Hnatek - hnate002@d.umn.edu :)
+# Sleep Tracker Mobile App
+This app was developed to help users get better sleep more consistently. Some features of this app include: letting users track their sleep in a sleep log and then get accurate statistics to help them better understand their sleep habits,
+users are also given plenty of resources to help them achieve a better sleep schedule, lastly users are able to track details about their day such as screen time, caffiene consumption and what they ate to help them attribute more factors
+to their sleep habits. This app was created in Android Studio on Flutter Framework, using Dart as the programming language. To get to the code that implements all the screens/features go to Sleep-Tracker-Mobile-App/lib/dreams/views.
+If you have any questions about the development of this app, please feel free to reach out at @antel010@d.umn.edu
